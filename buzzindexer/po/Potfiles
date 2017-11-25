@@ -1,0 +1,11 @@
+	../src/htmlparser.cpp \
+	../src/htmlparser.h \
+	../src/indexer.cpp \
+	../src/stdafx.cpp \
+	../src/stdafx.h \
+	../src/core.cpp \
+	../src/core.h \
+	../src/bzipper.cpp \
+	../src/bzipper.h \
+	../src/strops.cpp \
+	../src/strops.h \

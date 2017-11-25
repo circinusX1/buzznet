@@ -1,0 +1,68 @@
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filenumbers]
+0=53
+1=143
+2=272
+3=108
+4=31
+5=17
+6=82
+7=47
+8=36
+9=629
+10=844
+11=17
+12=1
+13=213
+14=57
+15=8
+16=1
+17=1
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+10=
+11=
+12=
+13=
+14=
+15=
+16=
+17=
+
+[filelist]
+0=/home/marius/develop/BUZZNET/src/main.cpp
+1=/home/marius/develop/BUZZNET/src/urlrepository.cpp
+2=/home/marius/develop/BUZZNET/src/buzznetconf.cpp
+3=/home/marius/develop/BUZZNET/src/buzznet.cpp
+4=/home/marius/develop/BUZZNET/src/buzznet.conf
+5=/home/marius/develop/BUZZNET/src/strops.cpp
+6=/home/marius/develop/BUZZNET/src/urlrepository.h
+7=/home/marius/develop/BUZZNET/src/hashvisit.cpp
+
+[Project Tree]
+0=0
+1=0:0
+
+[File Tree]
+0=0

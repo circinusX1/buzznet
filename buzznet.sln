@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libcrypto", "openssl\libcrypto.vcproj", "{2CDE4048-6C67-439F-83A8-9B69D1EE3A36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libssl", "openssl\libssl.vcproj", "{E8D9F385-1A33-4CCE-B8A6-2CB2F220C16F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buzznet", "buzznet\buzznet.vcproj", "{E2187C29-BA00-4975-BC1C-4D6068339D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		RelFull|Win32 = RelFull|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDE4048-6C67-439F-83A8-9B69D1EE3A36}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CDE4048-6C67-439F-83A8-9B69D1EE3A36}.Debug|Win32.Build.0 = Debug|Win32
+		{2CDE4048-6C67-439F-83A8-9B69D1EE3A36}.Release|Win32.ActiveCfg = Release|Win32
+		{2CDE4048-6C67-439F-83A8-9B69D1EE3A36}.Release|Win32.Build.0 = Release|Win32
+		{2CDE4048-6C67-439F-83A8-9B69D1EE3A36}.RelFull|Win32.ActiveCfg = RelFull|Win32
+		{2CDE4048-6C67-439F-83A8-9B69D1EE3A36}.RelFull|Win32.Build.0 = RelFull|Win32
+		{E8D9F385-1A33-4CCE-B8A6-2CB2F220C16F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8D9F385-1A33-4CCE-B8A6-2CB2F220C16F}.Debug|Win32.Build.0 = Debug|Win32
+		{E8D9F385-1A33-4CCE-B8A6-2CB2F220C16F}.Release|Win32.ActiveCfg = Release|Win32
+		{E8D9F385-1A33-4CCE-B8A6-2CB2F220C16F}.Release|Win32.Build.0 = Release|Win32
+		{E8D9F385-1A33-4CCE-B8A6-2CB2F220C16F}.RelFull|Win32.ActiveCfg = RelFull|Win32
+		{E8D9F385-1A33-4CCE-B8A6-2CB2F220C16F}.RelFull|Win32.Build.0 = RelFull|Win32
+		{E2187C29-BA00-4975-BC1C-4D6068339D9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2187C29-BA00-4975-BC1C-4D6068339D9B}.Debug|Win32.Build.0 = Debug|Win32
+		{E2187C29-BA00-4975-BC1C-4D6068339D9B}.Release|Win32.ActiveCfg = Release|Win32
+		{E2187C29-BA00-4975-BC1C-4D6068339D9B}.Release|Win32.Build.0 = Release|Win32
+		{E2187C29-BA00-4975-BC1C-4D6068339D9B}.RelFull|Win32.ActiveCfg = Release|Win32
+		{E2187C29-BA00-4975-BC1C-4D6068339D9B}.RelFull|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

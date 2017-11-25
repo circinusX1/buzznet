@@ -1,0 +1,50 @@
+# List of source files containing translatable strings.
+
+## Created by Anjuta - will be overwritten
+## If you don't want it to overwrite it,
+## 	Please disable it in the Anjuta project configuration
+
+# Source files
+src/buzznet.cpp
+src/buzznet.h
+src/connection.cpp
+src/connection.h
+src/core.cpp
+src/core.h
+src/huffman.cpp
+src/huffman.h
+src/ionet.cpp
+src/ionet.h
+src/osg.h
+src/oslinux.h
+src/oswindows.h
+src/sock.cpp
+src/sock.h
+src/statistics.cpp
+src/statistics.h
+src/stdafx.cpp
+src/stdafx.h
+src/strops.cpp
+src/strops.h
+src/url.cpp
+src/url.h
+src/urlrepository.cpp
+src/urlrepository.h
+src/buzznetconf.cpp
+src/bzipper.cpp
+src/bzipper.h
+src/hashvisit.cpp
+src/hashvisit.h
+src/htmlparser.cpp
+src/htmlparser.h
+src/httpserver.cpp
+src/httpserver.h
+src/mymyysql.cpp
+src/mymyysql.h
+src/pageparser.cpp
+src/watchdog.cpp
+src/watchdog.h
+src/main.cpp
+src/pageparser.h
+
+
